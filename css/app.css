@@ -15,9 +15,13 @@ h3 {
 
 
 .page-header {
+
+    padding: 0;
     background-image: url('../img/pattern.png');
     background-size: cover;
     background-position: center;
+    background-color: rgb(76, 173, 173);
+
 }
 
 
@@ -26,7 +30,18 @@ ul {
     padding: 0%;
 }
 
+.prima-linea {
+    background-color: #7799db;
+    color: white;
+
+}
+
+.terza-linea {
+    background-color: aqua;
+}
+
 body {
+    padding: 0;
     margin: 0;
 }
 
