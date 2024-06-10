@@ -48,3 +48,7 @@ body {
 body main {
     padding: 5%;
 }
+
+th {
+    text-align: left;
+}
