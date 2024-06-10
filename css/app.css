@@ -52,3 +52,11 @@ body main {
 th {
     text-align: left;
 }
+
+footer p {
+    color: white;
+    background-color: rgb(12, 41, 66);
+    text-align: center;
+    padding: 10px"
+
+}
