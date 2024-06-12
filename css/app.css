@@ -12,11 +12,12 @@ h3 {
     font-weight: 100
 }
 
-
+.logo {
+    height: 50px;
+}
 
 .page-header {
-
-    padding: 0;
+    padding: 24px 10px;
     background-image: url('../img/pattern.png');
     background-size: cover;
     background-position: center;
@@ -45,7 +46,7 @@ body {
     margin: 0;
 }
 
-body main {
+.page-content {
     padding: 5%;
 }
 
@@ -53,9 +54,9 @@ th {
     text-align: left;
 }
 
-footer p {
+.page-footer {
     color: white;
     background-color: rgb(12, 41, 66);
     text-align: center;
-    padding: 10px;
+    padding: 10px 20px;
 }
